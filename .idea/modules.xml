@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PruebaBeacons.iml" filepath="$PROJECT_DIR$/PruebaBeacons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PruebaGit.iml" filepath="$PROJECT_DIR$/PruebaGit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

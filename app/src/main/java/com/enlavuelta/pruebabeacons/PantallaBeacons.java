@@ -29,6 +29,11 @@ import java.util.UUID;
 
 public class PantallaBeacons extends AppCompatActivity implements IPantalla {
 
+
+    /*
+        Prueba solo para generar cambios en git
+     */
+
     private BeaconManager beaconManager;
     private Region region;
     private BeaconSignal beaconSignal;
